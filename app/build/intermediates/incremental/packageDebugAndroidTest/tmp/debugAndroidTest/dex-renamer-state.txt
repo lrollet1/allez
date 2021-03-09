@@ -1,0 +1,7 @@
+#Tue Mar 09 22:00:44 CET 2021
+base.1=/home/dawnk/Documents/android_tests/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/classes.dex
+path.1=classes.dex
+base.0=/home/dawnk/Documents/android_tests/android/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

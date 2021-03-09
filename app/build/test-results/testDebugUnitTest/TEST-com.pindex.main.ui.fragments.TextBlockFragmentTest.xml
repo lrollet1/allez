@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pindex.main.ui.fragments.TextBlockFragmentTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-09T21:01:07" hostname="dawnk-Inspiron-7590" time="0.0">
+  <properties/>
+  <testcase name="textBlockFragmentIsCreated" classname="com.pindex.main.ui.fragments.TextBlockFragmentTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

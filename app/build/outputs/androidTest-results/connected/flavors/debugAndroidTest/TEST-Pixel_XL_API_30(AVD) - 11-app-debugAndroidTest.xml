@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="android.support.test.internal.runner.junit3.AndroidTestSuite" tests="20" failures="0" errors="0" skipped="5" time="36.047" timestamp="2021-03-09T21:03:28" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_XL_API_30(AVD) - 11" />
+    <property name="flavor" value="debugAndroidTest" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="null" classname="android.support.test.internal.runner.junit3.AndroidTestSuite" time="0.001">
+    <skipped />
+  </testcase>
+  <testcase name="null" classname="android.support.test.internal.runner.junit3.DelegatingFilterableTestSuite" time="0.0">
+    <skipped />
+  </testcase>
+  <testcase name="null" classname="android.support.test.internal.runner.junit3.DelegatingTestSuite" time="0.0">
+    <skipped />
+  </testcase>
+  <testcase name="null" classname="android.support.test.internal.runner.junit3.NonExecutingTestSuite" time="0.026">
+    <skipped />
+  </testcase>
+  <testcase name="null" classname="android.support.test.internal.runner.junit3.NonLeakyTestSuite" time="0.0">
+    <skipped />
+  </testcase>
+  <testcase name="launchingExperienceActivityWithBigHeaderBlockDisplaysIt" classname="com.pindex.main.home.ExperienceActivityInstrumentedTest" time="5.651" />
+  <testcase name="launchingExperienceActivityWithBorderlessImageBlockAndSectionTitleDisplaysThem" classname="com.pindex.main.home.ExperienceActivityInstrumentedTest" time="3.816" />
+  <testcase name="launchingExperienceActivityWithAudioBlockDisplaysIt" classname="com.pindex.main.home.ExperienceActivityInstrumentedTest" time="2.361" />
+  <testcase name="launchingExperienceActivityWithAudioBlockAndSectionTitleDisplaysThem" classname="com.pindex.main.home.ExperienceActivityInstrumentedTest" time="3.014" />
+  <testcase name="launchingExperienceActivityWithMultipleBlocksDisplaysThem" classname="com.pindex.main.home.ExperienceActivityInstrumentedTest" time="2.361" />
+  <testcase name="launchingExperienceActivityWithTextBlockAndSectionTitleDisplaysThem" classname="com.pindex.main.home.ExperienceActivityInstrumentedTest" time="1.783" />
+  <testcase name="launchingExperienceActivityWithBorderlessImageBlockDisplaysIt" classname="com.pindex.main.home.ExperienceActivityInstrumentedTest" time="2.008" />
+  <testcase name="launchingExperienceActivityWithTextBlockDisplaysIt" classname="com.pindex.main.home.ExperienceActivityInstrumentedTest" time="2.537" />
+  <testcase name="clickingOnARecyclerViewItemLaunchesTheExperienceActivity" classname="com.pindex.main.home.HomeActivityInstrumentedTest" time="2.21" />
+  <testcase name="launchingHomeActivityDisplaysExperiencesListFragmentAndRecyclerView" classname="com.pindex.main.home.HomeActivityInstrumentedTest" time="2.286" />
+  <testcase name="audioBlockShouldDisplayItsAudioName" classname="com.pindex.main.ui.fragments.AudioBlockFragmentInstrumentedTest" time="0.527" />
+  <testcase name="bigHeaderBlockShouldDisplayItsTitle" classname="com.pindex.main.ui.fragments.BigHeaderBlockFragmentInstrumentedTest" time="0.202" />
+  <testcase name="borderlessImageBlockShouldBeDisplayed" classname="com.pindex.main.ui.fragments.BorderlessImageBlockFragmentInstrumentedTest" time="0.276" />
+  <testcase name="sectionTitleBlockShouldDisplayItsTitle" classname="com.pindex.main.ui.fragments.SectionTitleBlockFragmentInstrumentedTest" time="0.276" />
+  <testcase name="textBlockShouldDisplayItsText" classname="com.pindex.main.ui.fragments.TextBlockFragmentInstrumentedTest" time="0.452" />
+</testsuite>
